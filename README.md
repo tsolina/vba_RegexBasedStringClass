@@ -1,4 +1,4 @@
-# vba_StringClass_RegexInclusive
+# vba_RegexBasedStringClass
 Custom string class powered by Regex to search, replace, split and more 
 
 Intention is to simplify use of strings with addition of string class which works similar to strings from fully
